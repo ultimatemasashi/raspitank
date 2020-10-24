@@ -2,7 +2,7 @@
 ラズパイをサーボモーターで動かします
 USBカメラをRASPITANKに実装。　pygamesで遠隔制御します。
 
-![RASPITANK](https://github.com/ultimatemasashi/raspitank/122566478_270925330891548_6412678789847878808_n.jpg)
+![RASPITANK](https://github.com/ultimatemasashi/raspitank/blob/main/122566478_270925330891548_6412678789847878808_n.jpg)
 PCA9685 16チャンネル 12-ビット PWM Servo モーター ドライバーを使用するため、インストールが必要です。
 
 sudo pip install adafruit-pca9685
